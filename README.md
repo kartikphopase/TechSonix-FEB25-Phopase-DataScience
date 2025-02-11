@@ -1,6 +1,8 @@
 # TechSonix-FEB25-Phopase-DataScience
 Hand Gesture Detection Project
+
 Project Description
+
   This project focuses on developing a machine learning model to detect and classify hand gestures using a dataset of hand gesture images. The dataset undergoes preprocessing, exploratory data analysis (EDA), and model training to achieve accurate gesture recognition. The project compares different machine learning models and evaluates their performance using appropriate metrics. The primary goal is to create a reliable system that can interpret hand movements for applications such as sign language recognition, gaming controls, and human-computer interaction.
 
 Setup & Installation
@@ -16,8 +18,10 @@ pip install -r requirements.txt
 
 3. Run the Project
 To execute the different components of the project, use the following commands:
+
 Data Preprocessing & EDA: This step involves cleaning the dataset, handling missing values, and visualizing patterns.
 python data_preprocessing.py
+
 Train Machine Learning Models: Train different models and compare their performance.
 python train_models.py
 
