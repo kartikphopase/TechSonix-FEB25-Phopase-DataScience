@@ -6,7 +6,7 @@ This project focuses on developing a machine learning model to predict lung canc
 Setup & Installation
 1. Clone the Repository
 To get started, clone this repository to your local machine:
-git clone https://github.com/YourRepo/LungCancerPrediction.git  
+git clone "https://github.com/YourRepo/LungCancerPrediction.git"  
 cd lung-cancer-prediction
   
 2. Install Dependencies
